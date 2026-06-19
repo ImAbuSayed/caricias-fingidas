@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Caricias fingidas
+
+This log tracks the cryptographic history and versioning for the song **Caricias fingidas** (caricias-fingidas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T22:09:53.636598 | `v1` | `4121b1dfa25394f994732fc6cf54fbbcd10c0824756917944fe1f1feefa6f4cc` | `f84a62e6f7a1800ebb67677f6b8279ae4d9051c7ffd32070015efe807efecc36` | `2026-06-19_caricias-fingidas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
