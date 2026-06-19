@@ -15,7 +15,7 @@
 | **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-fingidas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Caricias fingidas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-fingidas/) |
+| **Get License** | [Official Music Licensing for Caricias fingidas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-fingidas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `4121b1dfa25394f994732fc6cf54fbbcd10c0824756917944fe1f1feefa6f4cc` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `3d84c594830097a5a83668d77153b29de639389a909b999449473195e05c6d7c` |
 | **Timestamp** | June 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
