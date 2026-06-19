@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Caricias fingidas |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-fingidas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Caricias fingidas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-fingidas/) |
+| **Get License** | [Obtain a Music License for Caricias fingidas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-fingidas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Tus caricias fingidas me suben la adrenalina
-> En medio de la disco, tú te ves tan divina
-> Baby, yo sé muy bien lo que tu mente imagina
-> Esta noche de locura nadie nos la termina
+> Fingertips that trace a lie, beneath the neon sky
+> Your hips they hypnotize, I'm tangled in your eyes
+> This velvet night alive, with secrets we won't hide
+> Come closer, let's collide, just you and I tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
